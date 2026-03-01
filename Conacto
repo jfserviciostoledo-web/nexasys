@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Contacto - NexaSys Solutions</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+    <header class="encabezado-principal">
+        <h1>NexaSys Solutions</h1>
+        <p>Estamos aquí para ayudarle</p>
+    </header>
+    
+    <nav class="barra-navegacion">
+        <a class="enlace-navegacion" href="inicio.html">Inicio</a>
+        <a class="enlace-navegacion" href="quienes-somos.html">Quiénes Somos</a>
+        <a class="enlace-navegacion" href="servicios.html">Servicios</a>
+        <a class="enlace-navegacion" href="contacto.html">Contacto</a>
+    </nav>
+
+    <main class="contenedor-principal">
+        <h2 class="titulo-seccion">Contacte con nosotros</h2>
+        <p>Rellene el siguiente formulario y un técnico especializado se pondrá en contacto con usted a la mayor brevedad.</p>
+
+        <form class="formulario-contacto" action="#" method="post">
+            <div class="grupo-formulario">
+                <label class="etiqueta-campo" for="nombre-empresa">Nombre de la empresa:</label>
+                <input class="campo-texto" type="text" id="nombre-empresa" name="nombre-empresa" required>
+            </div>
+            
+            <div class="grupo-formulario">
+                <label class="etiqueta-campo" for="correo-electronico">Correo electrónico:</label>
+                <input class="campo-texto" type="email" id="correo-electronico" name="correo-electronico" required>
+            </div>
+            
+            <div class="grupo-formulario">
+                <label class="etiqueta-campo" for="motivo-consulta">Motivo de la consulta:</label>
+                <textarea class="campo-texto" id="motivo-consulta" name="motivo-consulta" rows="5" required></textarea>
+            </div>
+            
+            <button class="boton-enviar" type="submit">Enviar Mensaje</button>
+        </form>
+    </main>
+
+    <footer class="pie-pagina">
+        <p>NexaSys Solutions - Servicios informáticos para pymes</p>
+        <a class="enlace-pie" href="aviso-legal.html">Aviso Legal y Política de Privacidad</a>
+    </footer>
+</body>
+</html>
