@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Servicios - NexaSys Solutions</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+    <header class="encabezado-principal">
+        <h1>NexaSys Solutions</h1>
+        <p>Soluciones adaptadas a sus necesidades</p>
+    </header>
+    
+    <nav class="barra-navegacion">
+        <a class="enlace-navegacion" href="inicio.html">Inicio</a>
+        <a class="enlace-navegacion" href="quienes-somos.html">Quiénes Somos</a>
+        <a class="enlace-navegacion" href="servicios.html">Servicios</a>
+        <a class="enlace-navegacion" href="contacto.html">Contacto</a>
+    </nav>
+
+    <main class="contenedor-principal">
+        <h2 class="titulo-seccion">Nuestros Servicios Principales</h2>
+
+        <div class="tarjeta-servicio">
+            <h3>1. Soporte técnico informático</h3>
+            <ul class="lista-elementos">
+                <li>Resolución de incidencias hardware y software</li>
+                <li>Soporte remoto y presencial</li>
+                <li>Asistencia a usuarios</li>
+            </ul>
+        </div>
+
+        <div class="tarjeta-servicio">
+            <h3>2. Mantenimiento de sistemas</h3>
+            <ul class="lista-elementos">
+                <li>Mantenimiento preventivo y correctivo</li>
+                <li>Monitorización de servidores y equipos</li>
+                <li>Actualizaciones de sistemas</li>
+            </ul>
+        </div>
+
+        <div class="tarjeta-servicio">
+            <h3>3. Redes y comunicaciones</h3>
+            <ul class="lista-elementos">
+                <li>Instalación y configuración de redes</li>
+                <li>VPN y acceso remoto</li>
+                <li>Optimización de infraestructuras</li>
+            </ul>
+        </div>
+
+        <div class="tarjeta-servicio">
+            <h3>4. Seguridad informática</h3>
+            <ul class="lista-elementos">
+                <li>Copias de seguridad</li>
+                <li>Protección contra malware y ransomware</li>
+                <li>Auditorías básicas de seguridad</li>
+            </ul>
+        </div>
+    </main>
+
+    <footer class="pie-pagina">
+        <p>NexaSys Solutions - Servicios informáticos para pymes</p>
+        <a class="enlace-pie" href="aviso-legal.html">Aviso Legal y Política de Privacidad</a>
+    </footer>
+</body>
+</html>
