@@ -28,8 +28,10 @@ nav a {
     margin: 0 15px;
     text-decoration: none;
     font-weight: bold;
+    transition:transform 0.4s ease;
+    display: inline-block;
 }
 
 nav a:hover {
-    text-decoration: underline;
+   transform: scale(1.2);
 }
