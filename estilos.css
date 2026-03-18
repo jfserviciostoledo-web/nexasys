@@ -36,7 +36,7 @@ nav a:hover {
    transform: scale(1.2);
 }
 /* FORMULARIO */
-form {
+.form {
     display: flex;
     flex-direction: column;
     max-width: 75%;
