@@ -1,7 +1,12 @@
 body {
-  background-color: #808ADB;
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f8;
+    line-height: 1.6;
 }
-h1 {
-font-family: "Neuton",serif;
-font-size: 80%;
-}
+
+/* HEADER */
+header {
+    background-color: #1f3a5f;
+    color: white;
+    padding: 15px;
+    text-align: center;
