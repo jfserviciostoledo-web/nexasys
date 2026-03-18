@@ -35,6 +35,30 @@ nav a {
 nav a:hover {
    transform: scale(1.2);
 }
-it {
-    border:thin double black;
+/* FORMULARIO */
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    margin: auto;
+}
+
+input, textarea {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* BOTÓN */
+button {
+    background-color: #1f3a5f;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #2e5c8a;
 }
