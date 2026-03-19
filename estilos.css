@@ -53,8 +53,7 @@ nav a:hover {
 
 /* CONTENIDO */
 main, section {
-    padding: 50%;
-    max-width: 70%;
+    padding: 5%;
     margin: auto;
 }
     
