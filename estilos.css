@@ -42,6 +42,7 @@ nav a:hover {
     background-position:center;
      background-repeat: no-repeat;
     background-color: #2e5c8a;
+    padding:15%;
     color: white;
     text-align: right;
 }
