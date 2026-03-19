@@ -42,6 +42,10 @@ nav a:hover {
     padding: 50px 20px;
     text-align: center;
 }
+.hero2{
+ text-align: left;
+  border:thin double black;  
+}
 
 /* CONTENIDO */
 main, section {
