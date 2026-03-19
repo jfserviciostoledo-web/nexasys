@@ -16,7 +16,7 @@ header {
     background-color: #1f3a5f;
     color: white;
     padding: 15px;
-    text-align: center;
+    text-align: center;}
 
 /* NAV */
 nav {
@@ -33,7 +33,7 @@ nav a {
 }
 
 nav a:hover {
-   transform: scale(1.2);
+   transform: scale(1.2);}
 
 /* HERO */
 .hero {
@@ -62,7 +62,7 @@ footer {
     margin-top: 30px;
 }
 
-footer-container {
+.footer-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 20px;
@@ -70,10 +70,10 @@ footer-container {
     margin: auto;
 }
 
-footer-container h4 {
+.footer-container h4 {
     margin-bottom: 10px;
 }
-footer-bottom {
+.footer-bottom {
     text-align: center;
     margin-top: 15px;
     font-size: 0.9em;
