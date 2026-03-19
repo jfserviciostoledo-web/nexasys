@@ -81,6 +81,8 @@ button {
     border: none;
     padding: 6%;
     cursor: pointer;
+    display: block;
+    margin:0 auto;
 }
 
 button:hover {
