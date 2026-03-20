@@ -27,7 +27,7 @@ nav a {
     color: white;
     margin: 0 15px;
     text-decoration: none;
-    font-weight: bold;
+    font-weight: italic;
     transition:transform 0.4s ease;
     display: inline-block;
 }
