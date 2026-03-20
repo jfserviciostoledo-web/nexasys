@@ -72,7 +72,19 @@ input, textarea {
     border: 1px solid #ccc;
     border-radius: 5px;
 }
+/* SERVICIOS EN TARJETAS */
+.servicios-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
 
+.card {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 8px rgba(0,0,0,0.1);
+}
 /* BOTÓN */
 button {
     background-color: #1f3a5f;
