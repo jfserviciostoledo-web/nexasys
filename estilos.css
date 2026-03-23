@@ -51,6 +51,12 @@ text-align: left;
 background-color:#3E75C1;
 }
 
+.btn {
+    background-color: #1f3a5f;
+    color: white;
+    border: none;
+    padding: 6%;
+}
 
 /* CONTENIDO */
 main, section {
