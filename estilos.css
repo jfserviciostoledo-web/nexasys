@@ -48,8 +48,12 @@ nav a:hover {
     text-align: right;
 }
 .hero2{
- text-align: left;
-  border:thin single black;  
+ text-align: left;  
+}
+
+.beneficios{
+    background-color:#ACB5DD;
+
 }
 
 /* CONTENIDO */
