@@ -44,17 +44,13 @@ nav a:hover {
     background-repeat: no-repeat;
     background-color: #2e5c8a;
     padding:15%;
-    color: white;
+    color: #D0D5EC;
     text-align: right;
 }
 .hero2{
  text-align: left;  
 }
 
-.beneficios{
-    color:#ACB5DD;
-
-}
 
 /* CONTENIDO */
 main, section {
