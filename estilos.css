@@ -42,13 +42,13 @@ nav a:hover {
     background-size:cover;
     background-position:center;
     background-repeat: no-repeat;
-    background-color: #2e5c8a;
     padding:15%;
-    color: #D0D5EC;
+    color: white;
     text-align: right;
 }
 .hero2{
- text-align: left;  
+text-align: left; 
+background-color:#2e5c8a;
 }
 
 
