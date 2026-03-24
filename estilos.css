@@ -69,6 +69,7 @@ main, section {
     padding: 8%;
     margin:auto;
     background-color: white;
+    font-family:"roboto-flex",sans-serif;
 }
 
 /* FORMULARIO */
