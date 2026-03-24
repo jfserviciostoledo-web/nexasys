@@ -49,16 +49,19 @@ nav a:hover {
 .hero2{
 text-align: left;
 background-color: white;
-margin:10px auto;
+margin:5px auto;
 padding:8% ;
 }
 
 .btn {
+    display:flex;
     background-color: #1f3a5f;
     color: white;
     border: none;
     padding: 2%;
     float:right;
+    border: 1px solid #ccc;
+    border-radius: 5px;
 }
 
 /* CONTENIDO */
