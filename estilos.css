@@ -42,15 +42,15 @@ nav a:hover {
     background-size:cover;
     background-position:center;
     background-repeat: no-repeat;
-    padding:6%;
+    padding:8%;
     color: white;
     text-align: right;
 }
 .hero2{
 text-align: left;
 background-color: white;
-margin: 0 ;
-padding: 0 ;
+margin:10px auto;
+padding:8% ;
 }
 
 .btn {
