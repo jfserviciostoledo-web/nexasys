@@ -63,6 +63,7 @@ padding: 0 ;
 /* CONTENIDO */
 main, section {
     padding: 8%;
+    background-color:#3E75C1;
 }
 
 /* FORMULARIO */
